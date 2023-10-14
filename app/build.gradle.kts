@@ -52,6 +52,8 @@ dependencies {
 
     implementation ("androidx.activity:activity-ktx:1.6.1")
 
+    implementation ("io.coil-kt:coil:2.2.2")
+
     //coroutine
     implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4")
     testImplementation("junit:junit:4.13.2")
