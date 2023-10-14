@@ -8,6 +8,6 @@ import retrofit2.http.GET
 
 interface ImageService {
 
-    @GET("a12354e9-1f7a-4abc-9c2d-ed16fa67634d")
+    @GET("5d65c00b-4f4c-4178-9288-2be0b3e685c8")
     fun getImage() : Single<ImageResponse>
 }

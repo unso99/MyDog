@@ -4,5 +4,5 @@ data class ImageResponse(
     val response : List<Image>
 )
 data class Image(
-    val imageUrl : String
+    val image : String
 )
