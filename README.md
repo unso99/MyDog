@@ -1,5 +1,6 @@
 # MyDog
-![image](https://github.com/unso99/MyDog/assets/94777814/cc664357-8a61-41bb-9484-cba85b039d8e)
+![image](https://github.com/unso99/MyDog/assets/94777814/a2651884-7519-40e3-964c-f567d245437d)
+
 
 ## 이 프로젝트에 사용된 기술
 - [Retrofit2](https://square.github.io/retrofit/)
