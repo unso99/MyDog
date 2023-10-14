@@ -200,6 +200,7 @@
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/newsRecyclerView"
             android:layout_width="0dp"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             android:layout_height="0dp"
             app:layout_constraintBottom_toTopOf="@id/button"
             app:layout_constraintEnd_toEndOf="parent"
